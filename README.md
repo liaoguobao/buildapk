@@ -1,2 +1,1 @@
-# buildapk
-rebuild apk
+此工程是《Android非ROOT环境下的动态库注入》文档对应的例子工程，具体使用请阅读文档。
