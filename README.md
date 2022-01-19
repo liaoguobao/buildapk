@@ -1,0 +1,2 @@
+# buildapk
+rebuild apk
